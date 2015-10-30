@@ -6,9 +6,9 @@ A sh script to automate creation of vhost on unix system.
 
 By default, it creates a ``yourdomain.ext.conf`` file in ``/etc/httpd/conf/vhost/`` and adds a localhost redirection to ``/etc/hosts``.
 
-Please, take the time to configure the script with your directories paths.
-
 ## How to use
+
+Configure the script with your directories paths.
 
 Simply execute the script with ``yourdomain.ext`` as a parameter.
 
